@@ -1,0 +1,10 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "getting-started-with-aws-sam"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-6pvt4nii6k37"
+s3_prefix = "getting-started-with-aws-sam"
+region = "eu-north-1"
+profile = "raywon"
+capabilities = "CAPABILITY_IAM"
