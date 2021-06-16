@@ -1,6 +1,6 @@
-==============================
+
 This repo is used as a reference for my blog post: raywontalks.com/aws-sam/
-==============================
+
 
 # getting-started-with-aws-sam
 
